@@ -1,6 +1,9 @@
 /**
  Jonathan Meredith
- 
+ This program is for my CS 121 Class. This program is the third assignment of the class.
+ In this program I have the user enter their name and it outputs a few different piece of
+ information based on characteristics in the users name (e.g. length of the name, displays 
+ the name in all CAPS and all lowercase, and the first and last letter of the name).
  *
  */
 
